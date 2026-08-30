@@ -1,84 +1,83 @@
 # Hi, I'm Jerald Roy J 👋 
-### Full-Stack Developer & AI Systems Engineer
+### Technical Product & Engineering | Operations
 
-Computer Science student with experience building scalable web applications, real-time AI/RAG architectures, and product workflows[cite: 2]. Driven by high-performance backend systems, live web retrieval, and modern JavaScript/TypeScript runtimes[cite: 2].
-
----
-
-### 🚀 Featured Project: Real-Time AI Search & RAG Backend
-
-**[AI Search Engine & Web RAG API](https://github.com/jerald-roy/backend)**  
-*A high-throughput Retrieval-Augmented Generation (RAG) backend API built with Bun, Express, Tavily, and Groq.*
-
-- ⚡ **Live Web Grounding:** Integrated Tavily Core search engine to fetch real-time web context, reducing LLM hallucinations.
-- 🧠 **Context Engineering:** Designed dynamic prompt templates merging retrieved search results into structured model payloads.
-- 🔄 **Real-Time Token Streaming:** Implemented chunked HTTP response streaming with `qwen/qwen3.6-27b` on Groq Cloud.
-- 📌 **Source Attribution:** Automatically appends structured JSON source references alongside completion streams.
-
-*Tech Stack: Bun, TypeScript, Express.js, Groq SDK, Tavily Core API, Zod*
+Computer Science student with experience building high-performance web applications, real-time AI/RAG architectures, and product workflows. Skilled at bridging technical backend engineering with product requirements, user journeys, and feature prioritization.
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### 🔀 Core Focus
 
-**Languages & Runtimes:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases:**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
-
-**AI & Cloud Infrastructure:**  
-![Groq](https://img.shields.io/badge/Groq_SDK-F05138?style=for-the-badge&logo=groq&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_RAG-4A154B?style=for-the-badge&logo=googlecloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🤖 **Engineering & AI Systems:** Building low-latency backend engines, live web-retrieval APIs, and streaming RAG architectures using Bun, TypeScript, Express, and Groq SDK.
+- 🎯 **Technical Product Management:** Translating complex user needs into actionable developer workflows, defining product user journeys, and coordinating sprint execution.
 
 ---
 
-### 📂 Other Notable Projects
+### 🚀 Featured Technical & Product Highlights
 
-- 📹 **[jTube - Video Sharing Platform](https://github.com/jerald-roy/j-tube)**[cite: 2]  
-  Architected a full-stack video-sharing application featuring user authentication, video uploads, and engagement workflows[cite: 2].  
-  *Tech: React.js, Node.js, Express.js, MongoDB*[cite: 2]
+#### 1. [Real-Time AI Search & Web RAG Backend Engine](https://github.com/jerald-roy/backend)
+*High-throughput Retrieval-Augmented Generation (RAG) backend API.*
+- **Context Engineering:** Designed dynamic context templates injecting real-time web search results (Tavily Core API) into open-source LLMs (`qwen/qwen3.6-27b`).
+- **Real-Time Token Streaming:** Delivered token-by-token HTTP streaming responses with structured JSON source attributions.
+- **Product Focus:** Reduced LLM hallucination rates and optimized query performance for real-time information retrieval.
 
-- ☁️ **[Cloud-Native Asset Visualization (CNCF / LFX Mentorship Project)](https://github.com/jerald-roy)**[cite: 2]  
-  Enhanced user-facing asset visualization components focusing on usability and cloud-native scalability[cite: 2].  
-  *Tech: React.js, Web Components, Cloud-Native Tooling*[cite: 2]
-
----
-
-### 💼 Experience Highlights
-
-- 📱 **Product & Mobile App Intern @ Mindyatra** *(05/2026 – 06/2026)*[cite: 2]  
-  Supported early-stage mental wellness mobile application development, translating requirements into actionable developer workflows[cite: 2].
-- 📊 **Business Development Intern @ Optimize My Data** *(01/2023 – 02/2026)*[cite: 2]  
-  Managed prospect pipelines, executing outreach and supporting performance marketing & CRM workflows[cite: 2].
+#### 2. [jTube - Full-Stack Video Sharing Platform](https://github.com/jerald-roy/j-tube)
+*Full-stack video discovery and streaming application.*
+- **Product Architecture:** Mapped out user journeys for content creators vs. viewers, detailing authentication, upload, and engagement loops.
+- **Tech Stack:** Built robust frontend and backend systems using React, Node.js, Express, and MongoDB.
 
 ---
 
-### 📈 GitHub Statistics
+### 🛠️ Technical & Product Stack
+
+| Domain | Technologies & Capabilities |
+| --- | --- |
+| **Product Strategy** | Product Requirements (PRDs), User Journeys, Feature Prioritization, Agile Execution |
+| **Languages & Runtimes** | TypeScript, JavaScript, Bun, Node.js, Python, HTML5/CSS3 |
+| **Frontend & Mobile** | React.js, React Native, UI/UX Asset Visualization |
+| **Backend & Databases** | Express.js, MongoDB, REST APIs, Zod |
+| **AI Infrastructure** | Groq Cloud SDK, Tavily RAG API, Context Engineering |
+
+---
+
+### 💼 Experience
+
+- 📱 **Product & Mobile App Intern @ Mindyatra** *(05/2026 – 06/2026)*
+  - Translated product requirements into actionable developer workflows for a mental wellness mobile app.
+  - Worked with stakeholders to define core features, user flows, and delivery timelines.
+
+- 📊 **Business Development Intern @ Optimize My Data** *(01/2023 – 02/2026)*  
+  - Managed client engagement pipelines and analyzed campaign performance metrics.
+
+- ☁️ **LFX Mentorship Applicant @ CNCF Ecosystem** *(01/2026 – 02/2026)* 
+  - Improved user-facing asset visualization components focusing on usability and cloud-native scalability.
+
+---
+
+### 🌐 Project Diversity & Architectural Scope
+
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                                 SYSTEM ARCHITECTURES                                   │
+├──────────────────────────┬──────────────────────────┬──────────────────┬───────────────┤
+│ 1. AI & RAG Engine       │ 2. Full-Stack Web Apps   │ 3. Mobile Apps   │ 4. Cloud UI   │
+├──────────────────────────┼──────────────────────────┼──────────────────┼───────────────┤
+│ • Bun Runtime & TS       │ • React.js & Node.js     │ • React Native   │ • CNCF Tools  │
+│ • Groq LLM Streaming     │ • MongoDB & Express      │ • Mobile UI/UX   │ • Usability   │
+│ • Dynamic Tavily Search  │ • Video & Auth Workflows │ • App Workflows  │ • Scalability │
+└──────────────────────────┴──────────────────────────┴──────────────────┴───────────────┘
+
+```
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerald-roy&show_icons=true&theme=tokyonight&hide_border=true" alt="Jerald's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-roy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jerald-roy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/jerald-roy-j-2051a1212](https://linkedin.com/in/jerald-roy-j-2051a1212)[cite: 2]
-- **Email:** [jeraldroyj143@gmail.com](mailto:jeraldroyj143@gmail.com)[cite: 2]
-- **Location:** Bengaluru, India[cite: 2]
+- **LinkedIn:** [linkedin.com/in/jerald-roy-j-2051a1212](https://linkedin.com/in/jerald-roy-j-2051a1212)
+- **Email:** [jeraldroyj143@gmail.com](mailto:jeraldroyj143@gmail.com)
+- **Location:** Bengaluru, India
